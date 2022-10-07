@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A17C4962-448A-47B2-B284-65E3BF55C673"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "143D5786-8191-4C99-8006-17DE5095674A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IMDBApp/Module/Detail/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A1870C3-A2A2-4647-887A-D6B172EA7A55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IMDBApp/Module/Detail/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "DetailViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1A1870C3-A2A2-4647-887A-D6B172EA7A55 - 2a84f19ee8a52fcd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMDBApp.DetailViewController.movie.getter : Swift.Optional&lt;IMDBApp.Movie&gt;"
+                  moduleName = "IMDBApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esinesen/Desktop/IMDBApp/IMDBApp/Module/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "1A1870C3-A2A2-4647-887A-D6B172EA7A55 - ef844f1335d303d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMDBApp.DetailViewController.movie.setter : Swift.Optional&lt;IMDBApp.Movie&gt;"
+                  moduleName = "IMDBApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esinesen/Desktop/IMDBApp/IMDBApp/Module/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "309">
+               </Location>
+               <Location
+                  uuid = "1A1870C3-A2A2-4647-887A-D6B172EA7A55 - 9e3d2da4c0f644ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMDBApp.DetailViewController.movie.modify : Swift.Optional&lt;IMDBApp.Movie&gt;"
+                  moduleName = "IMDBApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esinesen/Desktop/IMDBApp/IMDBApp/Module/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1A1870C3-A2A2-4647-887A-D6B172EA7A55 - db9b83a7a4084fa8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMDBApp.DetailViewController.movie.modify : Swift.Optional&lt;IMDBApp.Movie&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "IMDBApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esinesen/Desktop/IMDBApp/IMDBApp/Module/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "1A1870C3-A2A2-4647-887A-D6B172EA7A55 - 94f386ca5636b195"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMDBApp.DetailViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IMDBApp.DetailViewController"
+                  moduleName = "IMDBApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esinesen/Desktop/IMDBApp/IMDBApp/Module/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "1A1870C3-A2A2-4647-887A-D6B172EA7A55 - ceb4900fb0ed58da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IMDBApp.DetailViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IMDBApp.DetailViewController&gt;"
+                  moduleName = "IMDBApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esinesen/Desktop/IMDBApp/IMDBApp/Module/Detail/DetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "293">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BD5A046-1542-44E4-898F-5EFA806FFC21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IMDBAppTests/IMDBAppTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "response"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
