@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21225" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21207"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -21,11 +22,11 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" allowsSelection="NO" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="SXk-Jf-wIY">
-                    <rect key="frame" x="0.0" y="0.0" width="414" height="746"/>
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="712"/>
                     <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                 </tableView>
                 <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="Q4I-aN-IFl">
-                    <rect key="frame" x="0.0" y="746" width="414" height="150"/>
+                    <rect key="frame" x="0.0" y="712" width="414" height="150"/>
                     <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     <constraints>
                         <constraint firstAttribute="height" constant="150" id="Dzm-Nx-YD1"/>
@@ -46,7 +47,7 @@
                 <constraint firstItem="SXk-Jf-wIY" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="aPX-Jy-lMY"/>
                 <constraint firstItem="SXk-Jf-wIY" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="g8Y-qA-iFL"/>
                 <constraint firstItem="Q4I-aN-IFl" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" id="mHz-cx-w70"/>
-                <constraint firstAttribute="bottom" secondItem="Q4I-aN-IFl" secondAttribute="bottom" id="rlx-0M-25D"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="Q4I-aN-IFl" secondAttribute="bottom" id="rlx-0M-25D"/>
                 <constraint firstItem="Q4I-aN-IFl" firstAttribute="top" secondItem="SXk-Jf-wIY" secondAttribute="bottom" id="uH3-CJ-CuY"/>
             </constraints>
             <point key="canvasLocation" x="137.68115942028987" y="59.598214285714285"/>
