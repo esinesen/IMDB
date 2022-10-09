@@ -1,5 +1,11 @@
 # IMDB APP
 
+This is an IMDB clone application.
+
+  * I developed the application with Swift language and VIPER architecture.
+  * I used Storyboard and UIKit for design.
+  * I used [The Movie Database API](https://www.themoviedb.org/documentation/api) for data.
+
 ## Home Screen
 
 ![Simulator-Screen-Recording-iPhon (1)](https://user-images.githubusercontent.com/81181802/194704409-b84fc2ad-fa5c-4d34-b20f-e620122a0fd1.gif)
